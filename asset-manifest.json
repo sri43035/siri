@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/siri+/static/css/main.5f361e03.chunk.css",
+    "main.js": "/siri+/static/js/main.66567301.chunk.js",
+    "main.js.map": "/siri+/static/js/main.66567301.chunk.js.map",
+    "runtime-main.js": "/siri+/static/js/runtime-main.25778110.js",
+    "runtime-main.js.map": "/siri+/static/js/runtime-main.25778110.js.map",
+    "static/js/2.8a5eb265.chunk.js": "/siri+/static/js/2.8a5eb265.chunk.js",
+    "static/js/2.8a5eb265.chunk.js.map": "/siri+/static/js/2.8a5eb265.chunk.js.map",
+    "index.html": "/siri+/index.html",
+    "precache-manifest.27b039a04a0cd5994a39aa0fa39ec01e.js": "/siri+/precache-manifest.27b039a04a0cd5994a39aa0fa39ec01e.js",
+    "service-worker.js": "/siri+/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/siri+/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8a5eb265.chunk.js.LICENSE.txt": "/siri+/static/js/2.8a5eb265.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/siri+/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25778110.js",
+    "static/js/2.8a5eb265.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.66567301.chunk.js"
+  ]
+}
