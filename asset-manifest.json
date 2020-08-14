@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/siri/static/css/main.7cc06394.chunk.css",
+    "main.css": "/siri/static/css/main.71fd33ee.chunk.css",
     "main.js": "/siri/static/js/main.b63c6f89.chunk.js",
     "main.js.map": "/siri/static/js/main.b63c6f89.chunk.js.map",
     "runtime-main.js": "/siri/static/js/runtime-main.8aa9e8db.js",
@@ -8,9 +8,9 @@
     "static/js/2.7aa3b022.chunk.js": "/siri/static/js/2.7aa3b022.chunk.js",
     "static/js/2.7aa3b022.chunk.js.map": "/siri/static/js/2.7aa3b022.chunk.js.map",
     "index.html": "/siri/index.html",
-    "precache-manifest.c3406f4ff660afabc73ac13bbe241cfc.js": "/siri/precache-manifest.c3406f4ff660afabc73ac13bbe241cfc.js",
+    "precache-manifest.18fca39de7c0d2b42551db904821f48e.js": "/siri/precache-manifest.18fca39de7c0d2b42551db904821f48e.js",
     "service-worker.js": "/siri/service-worker.js",
-    "static/css/main.7cc06394.chunk.css.map": "/siri/static/css/main.7cc06394.chunk.css.map",
+    "static/css/main.71fd33ee.chunk.css.map": "/siri/static/css/main.71fd33ee.chunk.css.map",
     "static/js/2.7aa3b022.chunk.js.LICENSE.txt": "/siri/static/js/2.7aa3b022.chunk.js.LICENSE.txt",
     "static/media/angel2.jpg": "/siri/static/media/angel2.7aaaf253.jpg",
     "static/media/angel3.jpg": "/siri/static/media/angel3.2b516e6e.jpg",
@@ -48,7 +48,7 @@
   "entrypoints": [
     "static/js/runtime-main.8aa9e8db.js",
     "static/js/2.7aa3b022.chunk.js",
-    "static/css/main.7cc06394.chunk.css",
+    "static/css/main.71fd33ee.chunk.css",
     "static/js/main.b63c6f89.chunk.js"
   ]
 }
