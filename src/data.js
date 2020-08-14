@@ -21,13 +21,64 @@ import clgsaree1e from "./styles/css/clgsaree1e.jpg";
 import clgsaree2e from "./styles/css/clgsaree2e.jpg";
 import clgsaree3e from "./styles/css/clgsaree3e.jpg";
 import smiling from "./styles/css/smiling.jpg";
+import best from "./styles/css/best.jpg";
+import ye1 from "./styles/css/ye1.jpg";
+import ye2 from "./styles/css/ye2.png";
+import us from "./styles/css/us.png";
+import fav from "./styles/css/fav.jpg";
+import c1 from "./styles/css/c1.jpg";
+import c2 from "./styles/css/c2.jpg";
+import cc1 from "./styles/css/cc1.png";
 export default [
+  {
+    pics: [best],
+    name: "Siri",
+    age: "15 Aug",
+    distance: "",
+    text:
+      "Be cute as always and also be exiting masth cute untav exite iynapudu love you so much siri.😍",
+  },
+  {
+    pics: [us],
+    name: "Siri",
+    age: "15 Aug",
+    distance: "",
+    text: "Edi na fav pic siri na best memory .😍",
+  },
+  {
+    pics: [fav],
+    name: "Siri",
+    age: "15 Aug",
+    distance: "",
+    text: "Edi ne fav pic anav kada siri next na fav pic undi chudu .😍",
+  },
   {
     pics: [smiling],
     name: "Siri",
     age: "15 Aug",
     distance: "",
     text: "Keep smiling siri.😍",
+  },
+  {
+    pics: [ye1, ye2],
+    name: "Siri",
+    age: "15 Aug",
+    distance: "",
+    text: "Cutee untav e colors la full bright ga 😍.",
+  },
+  {
+    pics: [cc1],
+    name: "Siri",
+    age: "15 Aug",
+    distance: "",
+    text: "Entha cute unav aa😍",
+  },
+  {
+    pics: [c1, c2],
+    name: "Siri",
+    age: "15 Aug",
+    distance: "",
+    text: "😍😍😍😍😍😍😍😍😍😍",
   },
   {
     pics: [cutie2],
