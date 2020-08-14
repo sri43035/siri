@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/siri/static/css/main.7cc06394.chunk.css",
-    "main.js": "/siri/static/js/main.b1107273.chunk.js",
-    "main.js.map": "/siri/static/js/main.b1107273.chunk.js.map",
+    "main.js": "/siri/static/js/main.ce9bb7d8.chunk.js",
+    "main.js.map": "/siri/static/js/main.ce9bb7d8.chunk.js.map",
     "runtime-main.js": "/siri/static/js/runtime-main.8aa9e8db.js",
     "runtime-main.js.map": "/siri/static/js/runtime-main.8aa9e8db.js.map",
-    "static/js/2.0161a849.chunk.js": "/siri/static/js/2.0161a849.chunk.js",
-    "static/js/2.0161a849.chunk.js.map": "/siri/static/js/2.0161a849.chunk.js.map",
+    "static/js/2.29fcb4ca.chunk.js": "/siri/static/js/2.29fcb4ca.chunk.js",
+    "static/js/2.29fcb4ca.chunk.js.map": "/siri/static/js/2.29fcb4ca.chunk.js.map",
     "index.html": "/siri/index.html",
-    "precache-manifest.ea5732297c32ab181b6dcdffbe73c679.js": "/siri/precache-manifest.ea5732297c32ab181b6dcdffbe73c679.js",
+    "precache-manifest.f43ea7ed3570524e53313401d2c8fee3.js": "/siri/precache-manifest.f43ea7ed3570524e53313401d2c8fee3.js",
     "service-worker.js": "/siri/service-worker.js",
     "static/css/main.7cc06394.chunk.css.map": "/siri/static/css/main.7cc06394.chunk.css.map",
-    "static/js/2.0161a849.chunk.js.LICENSE.txt": "/siri/static/js/2.0161a849.chunk.js.LICENSE.txt",
+    "static/js/2.29fcb4ca.chunk.js.LICENSE.txt": "/siri/static/js/2.29fcb4ca.chunk.js.LICENSE.txt",
     "static/media/angel2.jpg": "/siri/static/media/angel2.7aaaf253.jpg",
     "static/media/angel3.jpg": "/siri/static/media/angel3.2b516e6e.jpg",
     "static/media/ash1.jpg": "/siri/static/media/ash1.0ae3aa6c.jpg",
@@ -39,8 +39,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8aa9e8db.js",
-    "static/js/2.0161a849.chunk.js",
+    "static/js/2.29fcb4ca.chunk.js",
     "static/css/main.7cc06394.chunk.css",
-    "static/js/main.b1107273.chunk.js"
+    "static/js/main.ce9bb7d8.chunk.js"
   ]
 }
