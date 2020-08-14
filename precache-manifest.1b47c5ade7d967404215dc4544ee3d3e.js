@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "150a05331c6629152bd6c41468bada56",
+    "revision": "ebefb4377619ebca4e13a90971df4076",
     "url": "/siri/index.html"
   },
   {
-    "revision": "044f37c5727bf22d91a2",
+    "revision": "9ce9f54ade87474460eb",
     "url": "/siri/static/css/main.71fd33ee.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/siri/static/js/2.7aa3b022.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "044f37c5727bf22d91a2",
-    "url": "/siri/static/js/main.b63c6f89.chunk.js"
+    "revision": "9ce9f54ade87474460eb",
+    "url": "/siri/static/js/main.4a6bce32.chunk.js"
   },
   {
     "revision": "b14c6944173c7db99d3e",
