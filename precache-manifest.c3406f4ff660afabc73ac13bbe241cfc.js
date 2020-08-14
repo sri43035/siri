@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "24c7fa092ce2b48bacbf72f8b663ca60",
+    "revision": "7bc62e5926a113671933a233fb44b14e",
     "url": "/siri/index.html"
   },
   {
-    "revision": "1223e62627372d0907d2",
+    "revision": "bdcb31386d9b5eb9275b",
     "url": "/siri/static/css/main.7cc06394.chunk.css"
   },
   {
-    "revision": "25e374fb37ea7435f9fe",
-    "url": "/siri/static/js/2.29fcb4ca.chunk.js"
+    "revision": "efcef2809c3a88a15547",
+    "url": "/siri/static/js/2.7aa3b022.chunk.js"
   },
   {
     "revision": "49b5983f09fdd760fd58bf56c788574d",
-    "url": "/siri/static/js/2.29fcb4ca.chunk.js.LICENSE.txt"
+    "url": "/siri/static/js/2.7aa3b022.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1223e62627372d0907d2",
-    "url": "/siri/static/js/main.ce9bb7d8.chunk.js"
+    "revision": "bdcb31386d9b5eb9275b",
+    "url": "/siri/static/js/main.b63c6f89.chunk.js"
   },
   {
     "revision": "b14c6944173c7db99d3e",
@@ -38,6 +38,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e7f426edcbd7b913942c1890f518b54e",
     "url": "/siri/static/media/b1.e7f426ed.png"
+  },
+  {
+    "revision": "dae8a6cc9025c05dc2259a73db33b57b",
+    "url": "/siri/static/media/best.dae8a6cc.jpg"
+  },
+  {
+    "revision": "ff47048c986f83c6a6230728d1667d0a",
+    "url": "/siri/static/media/c1.ff47048c.jpg"
+  },
+  {
+    "revision": "3874e23db9a7ddf83dfc103177ec22b0",
+    "url": "/siri/static/media/c2.3874e23d.jpg"
+  },
+  {
+    "revision": "332e853b9ddb570a064b9eba7660ee59",
+    "url": "/siri/static/media/cc1.332e853b.png"
   },
   {
     "revision": "00ba9847c55be7aacc8c6daf169c7b86",
@@ -76,6 +92,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/siri/static/media/cutie3.4654189f.jpg"
   },
   {
+    "revision": "668087437043970c6342a031bbe02e6d",
+    "url": "/siri/static/media/fav.66808743.jpg"
+  },
+  {
     "revision": "5ac62200756a9dd1154e562dcef0690b",
     "url": "/siri/static/media/pink2.5ac62200.jpg"
   },
@@ -112,11 +132,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/siri/static/media/trade2.273a153d.jpg"
   },
   {
+    "revision": "da657f69bfb3c58352d823d217aa9714",
+    "url": "/siri/static/media/us.da657f69.png"
+  },
+  {
     "revision": "5d6d902f4faf9e1bf12959e5d88ebabe",
     "url": "/siri/static/media/wish.5d6d902f.gif"
   },
   {
     "revision": "1813c5db06f4de912f353b680f7ce107",
     "url": "/siri/static/media/yara.1813c5db.mp3"
+  },
+  {
+    "revision": "8d4a6dbf5f1d725fd8188d3229dfa935",
+    "url": "/siri/static/media/ye1.8d4a6dbf.jpg"
+  },
+  {
+    "revision": "3c275d07857f446f03653f391c2b64ff",
+    "url": "/siri/static/media/ye2.3c275d07.png"
   }
 ]);

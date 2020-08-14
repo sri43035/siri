@@ -1,21 +1,25 @@
 {
   "files": {
     "main.css": "/siri/static/css/main.7cc06394.chunk.css",
-    "main.js": "/siri/static/js/main.ce9bb7d8.chunk.js",
-    "main.js.map": "/siri/static/js/main.ce9bb7d8.chunk.js.map",
+    "main.js": "/siri/static/js/main.b63c6f89.chunk.js",
+    "main.js.map": "/siri/static/js/main.b63c6f89.chunk.js.map",
     "runtime-main.js": "/siri/static/js/runtime-main.8aa9e8db.js",
     "runtime-main.js.map": "/siri/static/js/runtime-main.8aa9e8db.js.map",
-    "static/js/2.29fcb4ca.chunk.js": "/siri/static/js/2.29fcb4ca.chunk.js",
-    "static/js/2.29fcb4ca.chunk.js.map": "/siri/static/js/2.29fcb4ca.chunk.js.map",
+    "static/js/2.7aa3b022.chunk.js": "/siri/static/js/2.7aa3b022.chunk.js",
+    "static/js/2.7aa3b022.chunk.js.map": "/siri/static/js/2.7aa3b022.chunk.js.map",
     "index.html": "/siri/index.html",
-    "precache-manifest.f43ea7ed3570524e53313401d2c8fee3.js": "/siri/precache-manifest.f43ea7ed3570524e53313401d2c8fee3.js",
+    "precache-manifest.c3406f4ff660afabc73ac13bbe241cfc.js": "/siri/precache-manifest.c3406f4ff660afabc73ac13bbe241cfc.js",
     "service-worker.js": "/siri/service-worker.js",
     "static/css/main.7cc06394.chunk.css.map": "/siri/static/css/main.7cc06394.chunk.css.map",
-    "static/js/2.29fcb4ca.chunk.js.LICENSE.txt": "/siri/static/js/2.29fcb4ca.chunk.js.LICENSE.txt",
+    "static/js/2.7aa3b022.chunk.js.LICENSE.txt": "/siri/static/js/2.7aa3b022.chunk.js.LICENSE.txt",
     "static/media/angel2.jpg": "/siri/static/media/angel2.7aaaf253.jpg",
     "static/media/angel3.jpg": "/siri/static/media/angel3.2b516e6e.jpg",
     "static/media/ash1.jpg": "/siri/static/media/ash1.0ae3aa6c.jpg",
     "static/media/b1.png": "/siri/static/media/b1.e7f426ed.png",
+    "static/media/best.jpg": "/siri/static/media/best.dae8a6cc.jpg",
+    "static/media/c1.jpg": "/siri/static/media/c1.ff47048c.jpg",
+    "static/media/c2.jpg": "/siri/static/media/c2.3874e23d.jpg",
+    "static/media/cc1.png": "/siri/static/media/cc1.332e853b.png",
     "static/media/clg1.jpg": "/siri/static/media/clg1.00ba9847.jpg",
     "static/media/clg2.jpg": "/siri/static/media/clg2.25eef668.jpg",
     "static/media/clg3.jpg": "/siri/static/media/clg3.d2d09d53.jpg",
@@ -25,6 +29,7 @@
     "static/media/cutie1.jpg": "/siri/static/media/cutie1.afff53da.jpg",
     "static/media/cutie2.jpg": "/siri/static/media/cutie2.469872c0.jpg",
     "static/media/cutie3.jpg": "/siri/static/media/cutie3.4654189f.jpg",
+    "static/media/fav.jpg": "/siri/static/media/fav.66808743.jpg",
     "static/media/pink2.jpg": "/siri/static/media/pink2.5ac62200.jpg",
     "static/media/queen.webp": "/siri/static/media/queen.054ccabb.webp",
     "static/media/saree1.jpg": "/siri/static/media/saree1.afc50057.jpg",
@@ -34,13 +39,16 @@
     "static/media/t1.jpg": "/siri/static/media/t1.44be6ff1.jpg",
     "static/media/trade1.jpg": "/siri/static/media/trade1.e0c29265.jpg",
     "static/media/trade2.jpg": "/siri/static/media/trade2.273a153d.jpg",
+    "static/media/us.png": "/siri/static/media/us.da657f69.png",
     "static/media/wish.gif": "/siri/static/media/wish.5d6d902f.gif",
-    "static/media/yara.mp3": "/siri/static/media/yara.1813c5db.mp3"
+    "static/media/yara.mp3": "/siri/static/media/yara.1813c5db.mp3",
+    "static/media/ye1.jpg": "/siri/static/media/ye1.8d4a6dbf.jpg",
+    "static/media/ye2.png": "/siri/static/media/ye2.3c275d07.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8aa9e8db.js",
-    "static/js/2.29fcb4ca.chunk.js",
+    "static/js/2.7aa3b022.chunk.js",
     "static/css/main.7cc06394.chunk.css",
-    "static/js/main.ce9bb7d8.chunk.js"
+    "static/js/main.b63c6f89.chunk.js"
   ]
 }
