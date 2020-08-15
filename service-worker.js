@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/siri/precache-manifest.1b47c5ade7d967404215dc4544ee3d3e.js"
+  "/siri/precache-manifest.459e13cf87a693bb96e935d9d151394c.js"
 );
 
 self.addEventListener('message', (event) => {
