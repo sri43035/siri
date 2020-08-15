@@ -14,7 +14,7 @@ import yara from "../styles/css/yara.mp3";
 // }
 const to = (i) => ({
   x: 0,
-  y: i * -2,
+  y: i * -3.5,
   scale: 1,
   rot: -10 + Math.random() * 20,
   delay: i * 100,

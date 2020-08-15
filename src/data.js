@@ -31,26 +31,11 @@ import c2 from "./styles/css/c2.jpg";
 import cc1 from "./styles/css/cc1.png";
 export default [
   {
-    pics: [best],
-    name: "Siri 👸",
-    age: "15 Aug",
-    distance: "",
-    text:
-      "Be cute as always and also be exiting masth cute untav exite iynapudu love you so much siri.😍",
-  },
-  {
-    pics: [us],
-    name: "Siri 👸",
-    age: "15 Aug",
-    distance: "",
-    text: "Edi na fav pic siri na best memory .😍",
-  },
-  {
     pics: [fav],
     name: "Siri 👸",
     age: "15 Aug",
     distance: "",
-    text: "Edi ne fav pic anav kada siri next na fav pic undi chudu .😍",
+    text: "Your favourite pic.😍",
   },
   {
     pics: [smiling],
